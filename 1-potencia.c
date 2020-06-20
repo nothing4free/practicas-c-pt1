@@ -8,7 +8,7 @@
    Tambien muestra en pantalla los resultados de cada uno de los productos individuales. 
    
    Por comodidad a la hora de interpretar el codigo, divido su funcionamiento en funciones. 
-   A mi parecer, así se entiende mejor el funcionamiento del programa.
+   A mi parecer, asi se entiende mejor el funcionamiento del programa.
  -----------------------------------------------------------------------------------------------------------------
 */
 
