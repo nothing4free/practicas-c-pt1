@@ -72,3 +72,5 @@ void main(){
     calculaPotencia();
     
 }
+
+//2020 Jorge Martinez Hurtado (jorgemhdev)
