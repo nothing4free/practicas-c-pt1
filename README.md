@@ -1,5 +1,5 @@
 ## Prácticas en C, parte I
-Estos son algunos ejercicios básicos de programación en C para practicar estructuras de control y asentar conceptos básicos. Corresponden a mi primer año de Ingeniería del Software en U-Tad.<br> 
+Estos son algunos ejercicios básicos de programación en C para practicar estructuras de control y asentar conceptos básicos. Estos ejercicios no abarcan conceptos como manipulación de ficheros o memoria dinámica. Corresponden a mi primer año de Ingeniería del Software en U-Tad.<br> 
 La herramienta usada para compilar el código es TDM-GCC 4.9.2 (64-Bit).
 
 ## Enunciados de los ejercicios
