@@ -13,6 +13,10 @@ Escribir un programa que lea dos números enteros positivos y calcule su máximo
 
 Escribir un programa que lea dos números enteros positivos y calcule su mínimo común múltiplo.
 
+### Ejercicio 4
+
+Escribir un programa que calcule y visualice el más grande, el más pequeño y la media de n números (n>0). El valor de n se solicitará al principio del programa y los números serán introducidos por el usuario.
+
 ## ¿Puedo utilizar este código?
 Este código puede ser reutilizado, redistribuido y/o modificado siempre que se dé crédito a su autor original:<br>
 <b>Jorge Martínez Hurtado (jorgemhdev) | 2020</b>
