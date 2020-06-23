@@ -21,6 +21,10 @@ Escribir un programa que calcule y visualice el más grande, el más pequeño y 
 
 Determinar si un número dado por el usuario es primo o no.
 
+### Ejercicio 6
+
+Escriba un programa que pida una letra al usuario y luego llame a una función que imprima el carácter siguiente en la tabla ASCII.
+
 ## ¿Puedo utilizar este código?
 Este código puede ser reutilizado, redistribuido y/o modificado siempre que se dé crédito a su autor original:<br>
 <b>Jorge Martínez Hurtado (jorgemhdev) | 2020</b>
