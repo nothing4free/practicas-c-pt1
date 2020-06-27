@@ -30,11 +30,11 @@ Escriba un programa que pida una letra al usuario y luego llame a una función q
 Suponiendo que un programa ha leído unv alor entero mínimo min y un valor entero máximo max, escribir un bucle for que muestre por pantalla una tabla de valores y valores al cuadrado para todos los números copmredidos entre min y max.
 Ejemplo: si min vale 9 y max vale 12, el resultado sería:
 
-x     x*x 
-9     81
-10    100
-11    121
-12    144
+x     x*x<br> 
+9     81<br> 
+10    100<br> 
+11    121<br> 
+12    144<br> 
 
 ## ¿Puedo utilizar este código?
 Este código puede ser reutilizado, redistribuido y/o modificado siempre que se dé crédito a su autor original:<br>
