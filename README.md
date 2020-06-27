@@ -25,6 +25,17 @@ Determinar si un número dado por el usuario es primo o no.
 
 Escriba un programa que pida una letra al usuario y luego llame a una función que imprima el carácter siguiente en la tabla ASCII.
 
+### Ejercicio 7
+
+Suponiendo que un programa ha leído un valor entero mínimo min y un valor entero máximo max, escribir un bucle for que muestre por pantalla una tabla de valores y valores al cuadrado para todos los números comprendidos entre min y max.
+Ejemplo: si min vale 9 y max vale 12 el resultado sería
+x     x*x 
+----------------
+9     81
+10    100
+11    121
+12    144
+
 ## ¿Puedo utilizar este código?
 Este código puede ser reutilizado, redistribuido y/o modificado siempre que se dé crédito a su autor original:<br>
 <b>Jorge Martínez Hurtado (jorgemhdev) | 2020</b>
