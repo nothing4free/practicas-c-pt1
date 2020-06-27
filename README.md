@@ -38,9 +38,9 @@ x     x*x<br>
 
 ### Ejercicio 8
 
-Realiza el código de la función LimpiarCaracter(), que recibe tres argumentos: una cadena de caracteres y dos caracteres c1 y c2. La función se encargará de buscar en la cadena todas las ocurrencias del primero de los caracteres (c1) y sustituirlo por el segundo (c2) en todos los casos en los que se haya encontrado. Además, la función debe devolver:
-• el valor 0 si no ha encontrado ninguna ocurrencia de c1
-• el número de veces que lo ha encontrado, caso de que así haya sido.
+Realiza el código de la función LimpiarCaracter(), que recibe tres argumentos: una cadena de caracteres y dos caracteres c1 y c2. La función se encargará de buscar en la cadena todas las ocurrencias del primero de los caracteres (c1) y sustituirlo por el segundo (c2) en todos los casos en los que se haya encontrado. Además, la función debe devolver:<br>
+• el valor 0 si no ha encontrado ninguna ocurrencia de c1<br>
+• el número de veces que lo ha encontrado, caso de que así haya sido.<br>
 
 ## ¿Puedo utilizar este código?
 Este código puede ser reutilizado, redistribuido y/o modificado siempre que se dé crédito a su autor original:<br>
