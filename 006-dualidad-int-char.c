@@ -9,7 +9,7 @@
    dualidad int-char.
    
    Por comodidad a la hora de interpretar el codigo, divido su funcionamiento en funciones. 
-   A mi parecer, así se entiende mejor el funcionamiento del programa.
+   A mi parecer, asÃ­ se entiende mejor el funcionamiento del programa.
  -----------------------------------------------------------------------------------------------------------------
 */
 
