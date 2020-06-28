@@ -170,12 +170,11 @@ void calculaMCD(){
 }
 
 void main(){
-	
+	//en la funcion main se llama a todas las funciones anteriores
 	pideNumero();
 	calculaDiv1();
 	calculaDiv2();
 	calculaMCD();
-	
 }
 
 //Jorge Martinez Hurtado (jorgemhdev) | 2020
