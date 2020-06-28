@@ -50,6 +50,14 @@ Escribir un programa completo (cabecera, includes...) que realice las siguientes
 • Calcular x^n a base de multiplicar x tantas veces como indique n.<br>
 • Mostrar el resultado utilizando un formato que sólo muestre 2 cifras en la parte decimal.<br>
 
+### Ejercicio 10
+
+Realizar un programa en C que reconozca si una palabra es un palíndromo. Una palabra es un palíndromo si se lee igual de izquierda a derecha que de derecha a izquierda.<br> 
+Para reconocer si una palabra es o no un palíndromo utilizar una función. Para simplificar el problema, escribir el texto todo en mayúsculas y sin acentos.<br>
+int Palindromo (char palabra[]):<br>
+• Devuelve 1: si la cadena “palabra” es palíndromo. Se ignorarán los espacios en blanco. Por ejemplo: “DABALE ARROZ A LA ZORRA EL ABAD” o “SALTA LENIN EL ATLAS” son palíndromos.<br>
+• Devuelve 0: si no lo es.<br>
+
 ## ¿Puedo utilizar este código?
 Este código puede ser reutilizado, redistribuido y/o modificado siempre que se dé crédito a su autor original:<br>
 <b>Jorge Martínez Hurtado (jorgemhdev) | 2020</b>
