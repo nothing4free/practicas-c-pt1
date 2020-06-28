@@ -42,6 +42,14 @@ Realiza el código de la función LimpiarCaracter(), que recibe tres argumentos:
 • el valor 0 si no ha encontrado ninguna ocurrencia de c1<br>
 • el número de veces que lo ha encontrado, caso de que así haya sido.<br>
 
+### Ejercicio 9
+
+Escribir un programa completo (cabecera, includes, ...) que realice las siguientes operaciones:<br>
+• Declarar una variable x (tipo double) y otra n (tipo int).<br>
+• Leer el valor de ambas variables mediante scanf.<br>
+• Calcular xn a base de multiplicar x tantas veces como indique n.<br>
+• Mostrar el resultado utilizando un formato que sólo muestre 2 cifras en la parte decimal.<br>
+
 ## ¿Puedo utilizar este código?
 Este código puede ser reutilizado, redistribuido y/o modificado siempre que se dé crédito a su autor original:<br>
 <b>Jorge Martínez Hurtado (jorgemhdev) | 2020</b>
