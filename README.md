@@ -44,10 +44,10 @@ Realiza el código de la función LimpiarCaracter(), que recibe tres argumentos:
 
 ### Ejercicio 9
 
-Escribir un programa completo (cabecera, includes, ...) que realice las siguientes operaciones:<br>
+Escribir un programa completo (cabecera, includes...) que realice las siguientes operaciones:<br>
 • Declarar una variable x (tipo double) y otra n (tipo int).<br>
 • Leer el valor de ambas variables mediante scanf.<br>
-• Calcular xn a base de multiplicar x tantas veces como indique n.<br>
+• Calcular x^n a base de multiplicar x tantas veces como indique n.<br>
 • Mostrar el resultado utilizando un formato que sólo muestre 2 cifras en la parte decimal.<br>
 
 ## ¿Puedo utilizar este código?
