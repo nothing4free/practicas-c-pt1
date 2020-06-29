@@ -4,22 +4,22 @@ La herramienta usada para compilar el código es TDM-GCC 4.9.2 (64-Bit).
 
 ## Enunciados de los ejercicios
 ### Ejercicio 1
-Escribir un programa que lea dos números enteros. El primero es base entera positiva y el segundo un valor máximo. Calcula e imprime la secuencia de potencias de la base entera positiva (primer dato introducido) y que sean menores que el valor máximo (segundo dato introducido).
+Escribir un programa que lea dos números enteros. El primero es base entera positiva y el segundo un valor máximo. Calcula e imprime la secuencia de potencias de la base entera positiva (primer dato introducido) y que sean menores que el valor máximo (segundo dato introducido).<br>
 
 ### Ejercicio 2
-Escribir un programa que lea dos números enteros positivos y calcule su máximo común divisor.
+Escribir un programa que lea dos números enteros positivos y calcule su máximo común divisor.<br>
 
 ### Ejercicio 3
-Escribir un programa que lea dos números enteros positivos y calcule su mínimo común múltiplo.
+Escribir un programa que lea dos números enteros positivos y calcule su mínimo común múltiplo.<br>
 
 ### Ejercicio 4
-Escribir un programa que calcule y visualice el más grande, el más pequeño y la media de n números (n>0). El valor de n se solicitará al principio del programa y los números serán introducidos por el usuario.
+Escribir un programa que calcule y visualice el más grande, el más pequeño y la media de n números (n>0). El valor de n se solicitará al principio del programa y los números serán introducidos por el usuario.<br>
 
 ### Ejercicio 5
-Determinar si un número dado por el usuario es primo o no.
+Determinar si un número dado por el usuario es primo o no.<br>
 
 ### Ejercicio 6
-Escriba un programa que pida una letra al usuario y luego llame a una función que imprima el carácter siguiente en la tabla ASCII.
+Escriba un programa que pida una letra al usuario y luego llame a una función que imprima el carácter siguiente en la tabla ASCII.<br>
 
 ### Ejercicio 7
 Suponiendo que un programa ha leído unv alor entero mínimo min y un valor entero máximo max, escribir un bucle for que muestre por pantalla una tabla de valores y valores al cuadrado para todos los números copmredidos entre min y max.
@@ -52,7 +52,7 @@ int Palindromo (char palabra[]):<br>
 
 ### Ejercicio 11
 Escribir una función EliminarVocales(char cadena[]) que reciba una cadena del programa principal y la transforme en otra (generalmente más corta) donde no estén las vocales.<br>
-Si recibe, por ejemplo, la cadena "Ordenador", la debe transformar en la cadena "rdndr".
+Si recibe, por ejemplo, la cadena "Ordenador", la debe transformar en la cadena "rdndr".<br>
 
 ### Ejercicio 12
 Escribir un programa que pida una fecha en dos variables: día y mes.<br>
@@ -62,6 +62,10 @@ Escribir un programa que pida una fecha en dos variables: día y mes.<br>
 Notas:<br>
 • Se considera que el año no es bisiesto.<br>
 • Validar implica comprobar si el valor introducido es válido y en caso de que no lo sea, solicite de nuevo otro valor.<br>
+
+### Ejercicio 13
+
+Escribir un programa que reciba dos años, y determine todos los bisiestos comprendidos entre los mismos.<br>
 
 ## ¿Puedo utilizar este código?
 Este código puede ser reutilizado, redistribuido y/o modificado siempre que se dé crédito a su autor original:<br>
