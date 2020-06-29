@@ -67,6 +67,14 @@ Notas:<br>
 
 Escribir un programa que reciba dos años, y determine todos los bisiestos comprendidos entre los mismos.<br>
 
+### Ejercicio 14
+
+Escribir un programa que solicite al usuario la cantidad de números n que va a introducir, debiendo validar que n sea un valor positivo. A continuación, vaya solicitando tantos números enteros como haya indicado el usuario con n, y muestre por pantalla los números que sean múltiplos de 3. Finalmente, deberá mostrar al usuario la media de los valores que no son múltiplos de 3.
+
+### Ejercicio 15
+
+(ISSUE OPEN) Realizar el Ejercicio 14, pero sin emplear vectores.
+
 ## ¿Puedo utilizar este código?
 Este código puede ser reutilizado, redistribuido y/o modificado siempre que se dé crédito a su autor original:<br>
 <b>Jorge Martínez Hurtado (jorgemhdev) | 2020</b>
