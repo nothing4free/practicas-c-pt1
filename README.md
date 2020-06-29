@@ -58,6 +58,11 @@ int Palindromo (char palabra[]):<br>
 • Devuelve 1: si la cadena “palabra” es palíndromo. Se ignorarán los espacios en blanco. Por ejemplo: “DABALE ARROZ A LA ZORRA EL ABAD” o “SALTA LENIN EL ATLAS” son palíndromos.<br>
 • Devuelve 0: si no lo es.<br>
 
+### Ejercicio 11
+
+Escribir una función EliminarVocales(char cadena[]) que reciba una cadena del programa principal y la transforme en otra (generalmente más corta) donde no estén las vocales.<br>
+Si recibe, por ejemplo, la cadena "Ordenador", la debe transformar en la cadena "rdndr".
+
 ## ¿Puedo utilizar este código?
 Este código puede ser reutilizado, redistribuido y/o modificado siempre que se dé crédito a su autor original:<br>
 <b>Jorge Martínez Hurtado (jorgemhdev) | 2020</b>
